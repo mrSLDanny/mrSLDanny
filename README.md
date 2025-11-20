@@ -47,7 +47,7 @@ class mrSLDanny:
   <h3 style="color: #36BCF7">📫 Connect with me</h3>
   
   <!-- Telegram -->
-  <a href="https://t.me/@linuxoid_sl">
+  <a href="https://t.me/linuxoid_sl">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" />
   </a>
   
