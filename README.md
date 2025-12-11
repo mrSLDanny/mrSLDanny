@@ -28,13 +28,6 @@ class mrSLDanny:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,redis,docker,git,linux,nginx,vscode,postman&perline=6" />
 </div>
-
-<br/>
-
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-  <!-- Общая статистика -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mrSLDanny&show_icons=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=fff&bg_color=0D1117&theme=transparent" height="180" alt="stats graph" />
   
   <!-- Топ языков -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrSLDanny&layout=compact&hide_border=true&title_color=36BCF7&text_color=fff&bg_color=0D1117&theme=transparent" height="180" alt="languages graph" />
