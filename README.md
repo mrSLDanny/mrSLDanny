@@ -39,26 +39,3 @@ class mrSLDanny:
   <!-- Топ языков -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrSLDanny&layout=compact&hide_border=true&title_color=36BCF7&text_color=fff&bg_color=0D1117&theme=transparent" height="180" alt="languages graph" />
 </div>
-
-<br/>
-<br/>
-
-<div align="center">
-  <h3 style="color: #36BCF7">📫 Connect with me</h3>
-  
-  <!-- Telegram -->
-  <a href="https://t.me/linuxoid_sl">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" />
-  </a>
-  
-  <!-- Email (Gmail) -->
-  <a href="mailto:mrlinuxoid@yandex.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-  </a>
-
-  <br/>
-  <br/>
-  
-  <!-- Счетчик просмотров профиля (маленький и аккуратный) -->
-  <img src="https://komarev.com/ghpvc/?username=mrSLDanny&style=flat-square&label=Profile+Views&color=36BCF7" alt="profile views" />
-</div>
